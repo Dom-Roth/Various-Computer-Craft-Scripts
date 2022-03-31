@@ -6,6 +6,3 @@ Those are many year old lua scripts for the ComputerCraft Minecraft mod.
 * ToDo Application with external monitor support
 * Modification application for the ToDo Application
 * Turtle program that builds a square was mostly used for fences
-
-
-APPLICATIONS LIKE THE PASSWORD SCRIPT MIGHT CONTAIN SECURITY VULNERABILITIES, USE WITH CAUTION
